@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hello 👋, I'm Rahma Zakaria </h1>
+<h3 align="center">A Software Developer</h3>
 
-<!--
-**rahma-zakaria/rahma-zakaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I’m Mobile developer and Back-End developer
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying on **ITI 9-Month professional program diploma**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **rahma.zakaria112@gmail.com**
+
+## Connect with me:
+  <a href="https://www.linkedin.com/in/rahma-zakaria/" target="_blank"><img height="30" width="30"        src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" /></a>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahma-zakaria&show_icons=true&theme=buefy&locale=en&layout=compact" alt="Rahma Zakaria" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahma-zakaria&label=Profile%20views&color=0e75b6&style=flat" alt="Rahma Zakaria" /> </p>
+
+
